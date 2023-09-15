@@ -1,5 +1,5 @@
-# Simulacion-por-computadora-Luis-Rico
-Repositorio para la materia Simulación por computadora.
+# Simulación por computadora
+Alumno: Luis Iván Rico Amezcua
 
 ## Renders
 Práctica 01 - Cubo Pirámide
