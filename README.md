@@ -16,3 +16,8 @@ Alumno: Luis Iván Rico Amezcua
 
 
 ![p3-1](https://github.com/luisrico5562/Simulacion-por-computadora-Luis-Rico/assets/127691671/6e15d54a-c315-410d-bb08-e431297fe85b)
+
+[Práctica 04 - Simulación colisión](https://github.com/luisrico5562/Simulacion-por-computadora-Luis-Rico/tree/main/Pr%C3%A1ctica%2004%20-%20Simulaci%C3%B3n%20colisi%C3%B3n)
+
+
+![practica4-2](https://github.com/luisrico5562/Simulacion-por-computadora-Luis-Rico/assets/127691671/129abc70-b9cd-4659-b113-846e53f92bee)
