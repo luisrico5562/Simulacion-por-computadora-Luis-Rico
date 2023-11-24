@@ -22,3 +22,6 @@ Alumno: Luis Iván Rico Amezcua
 ![Práctica04-4](https://github.com/luisrico5562/Simulacion-por-computadora-Luis-Rico/assets/127691671/3454c173-8d8c-48c2-a087-79c6311d40ee)
 
 
+[Práctica 05 - Simulación líquido](https://github.com/luisrico5562/Simulacion-por-computadora-Luis-Rico/tree/main/Pr%C3%A1ctica%2005%20-%20Simulaci%C3%B3n%20l%C3%ADquido)
+
+![practica5-5](https://github.com/luisrico5562/Simulacion-por-computadora-Luis-Rico/assets/127691671/463260c6-43b7-4d07-8131-3e1d2119c304)
